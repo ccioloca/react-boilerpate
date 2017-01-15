@@ -1,0 +1,14 @@
+.github-users {
+  &__title {
+    text-align: center;
+  }
+
+  &--size {
+    color: $dark-grey;
+    font-size: 2rem;
+  }
+
+  &__card {
+    text-align: center;
+  }
+}

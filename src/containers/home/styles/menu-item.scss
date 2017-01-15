@@ -1,0 +1,21 @@
+.menu-item {
+  border-bottom: 1px solid $menu-item-bottom-border;
+  height: 30px;
+
+  &__text {
+    display: inline-block;
+    margin-left: 5px;
+    padding-top: 5px;
+  }
+
+  &--font {
+    font-weight: bold;
+  }
+
+  &__avatar {
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: -10px;
+    float: left;
+  }
+}
